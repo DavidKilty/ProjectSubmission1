@@ -45,22 +45,26 @@ div {
 
 /* Main */
 main {
+    font-family: 'Lato', sans-serif;
     background-color: rgb(230, 223, 224);
 }
 
-h4{
+h4 {
     font-family: 'Lato', sans-serif;
 }
 
-h5{
+h5 {
+    font-family: 'Lato', sans-serif;
     text-align: left;
 }
 
 
 p{
+    font-family: 'Lato', sans-serif;
     text-align: left;
 }
 h6 {
+    font-family: 'Lato', sans-serif;
     text-align: left;
 }
 
