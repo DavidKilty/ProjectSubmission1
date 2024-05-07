@@ -40,13 +40,34 @@ h5{
     text-align: left;
 }
 
+
 p{
     text-align: left;
 }
-h6{text-align: left;}
-
+h6 {
+    text-align: left;
+}
 
 /* Footer */
 footer {
     background-color: rgb(174, 216, 252);
+}
+
+form
+{
+    text-align: right;
+}
+h1 {font-family: 'Oswald', sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    color: #ab012c;
+    text-align: center;
+}
+h3 {font-family: 'Oswald', sans-serif;
+    letter-spacing: 1px;
+    color: #ab012c;
+    text-align: right;
+}
+label {
+    font-family: 'Oswald', sans-serif;
 }
