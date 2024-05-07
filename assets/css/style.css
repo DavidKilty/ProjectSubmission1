@@ -15,25 +15,38 @@ h1 {font-family: 'Oswald', sans-serif;
     color: #ab012c;
     text-align: center;
 }
-h3 {font-family: 'Oswald', sans-serif;
+h4 {font-family: 'Oswald', sans-serif;
     letter-spacing: 1px;
     color: #ab012c;
     text-align: center;
 }
+#menu {
+    font-family: 'Oswald', sans-serif;
+    font-size: 110%;
+    letter-spacing: 2px;
+    list-style-type: none;
+    text-align: center;}
+
 h2 {font-family: 'Lato', sans-serif;
     letter-spacing: 1px;
     color: #093269;
     text-align: center;
 }
-div {font-family: 'Lato', sans-serif;
+
+div {
+    font-family: 'Lato', sans-serif;
     letter-spacing: 1px;
     color: #093269;
     text-align: center;
-
 }
+
 /* Main */
 main {
     background-color: rgb(230, 223, 224);
+}
+
+h4{
+    font-family: 'Lato', sans-serif;
 }
 
 h5{
