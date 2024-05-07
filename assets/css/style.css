@@ -27,7 +27,7 @@ h4 {font-family: 'Oswald', sans-serif;
     list-style-type: none;
     text-align: center;}
 
-h2 {font-family: 'Lato', sans-serif;
+h2 {font-family: 'Oswald', sans-serif;
     letter-spacing: 1px;
     color: #093269;
     text-align: center;
@@ -39,6 +39,9 @@ div {
     color: #093269;
     text-align: center;
 }
+
+
+
 
 /* Main */
 main {
