@@ -1,12 +1,17 @@
-/*Header*/
-header{
+/* Header */
+
+header {
     background-color: lightgray;
 }
-/*Main*/
-main{
+
+/* Main */
+main {
     background-color: azure;
 }
-/*Footer*/
-footer{
+
+
+/* Footer */
+
+footer {
     background-color: lightgray;
 }
