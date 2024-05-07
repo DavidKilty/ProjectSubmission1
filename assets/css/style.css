@@ -1,8 +1,32 @@
+/* Google fonts import */
+
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&family=Oswald:wght@200..700&display=swap');
+
+/* Asterisk wildcard selector to override default styles added by the browser */ 
+
+
 /* Header */
 header {
     background-color: rgb(217, 217, 235);
 }
+h1 {font-family: 'Oswald', sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    color: #ab012c;
+}
+h3 {font-family: 'Oswald', sans-serif;
+    letter-spacing: 1px;
+    color: #ab012c;
+}
+h2 {font-family: 'Lato', sans-serif;
+    letter-spacing: 1px;
+    color: #093269;
+}
+div {font-family: 'Lato', sans-serif;
+    letter-spacing: 1px;
+    color: #093269;
 
+}
 /* Main */
 main {
     background-color: rgb(230, 223, 224);
