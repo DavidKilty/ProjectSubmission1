@@ -1,17 +1,15 @@
 /* Header */
-
 header {
-    background-color: lightgray;
+    background-color: darkblue;
 }
 
 /* Main */
 main {
-    background-color: azure;
+    background-color: pink;
 }
 
 
 /* Footer */
-
 footer {
-    background-color: lightgray;
+    background-color: green;
 }
