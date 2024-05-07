@@ -13,24 +13,37 @@ h1 {font-family: 'Oswald', sans-serif;
     text-transform: uppercase;
     letter-spacing: 2px;
     color: #ab012c;
+    text-align: center;
 }
 h3 {font-family: 'Oswald', sans-serif;
     letter-spacing: 1px;
     color: #ab012c;
+    text-align: center;
 }
 h2 {font-family: 'Lato', sans-serif;
     letter-spacing: 1px;
     color: #093269;
+    text-align: center;
 }
 div {font-family: 'Lato', sans-serif;
     letter-spacing: 1px;
     color: #093269;
+    text-align: center;
 
 }
 /* Main */
 main {
     background-color: rgb(230, 223, 224);
 }
+
+h5{
+    text-align: left;
+}
+
+p{
+    text-align: left;
+}
+h6{text-align: left;}
 
 
 /* Footer */
