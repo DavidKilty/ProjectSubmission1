@@ -9,7 +9,7 @@ The ideal user would be a new Berlin resident a visiting tourist, who is searchi
 
 I would say the main target audience would be people aged 20 to 50, which makes up about two-thirds of the bar demographic. However, the website was intended to skew to a younger audience, say 20 to 35.
 
-![/assets/workspace/ProjectSubmission1/assets/Screenshot 2024-05-08 at 15.30.04.png]
+/assets/workspace/ProjectSubmission1/assets/Screenshot 2024-05-08 at 15.30.04.png
 
 ## Existing Features
 The website layout is simple. As, it is my first website, and I largely wrote it myself, before I had access to my IDE. I have placed the Nav bar at the top, as we did in the LoveRunning project, which allows you to access the two secondary pages. These are where I have listed the cocktail recipes and music genre guide. 
