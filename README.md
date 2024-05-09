@@ -26,7 +26,7 @@ At the bottom of the first and second pages, there is a feedback form. This is s
 As I become more experienced, I would like there to be better-flowing graphics and more user interactions available. Like a review/comment section or perhaps a map feature linked. 
 
 ## Manual Testing
-Quality assurance. 
+I deployed it multiple times and used a validator
 
 ## Deployment 
 I deployed the project via the GitHub features. I did this continually throughout the project to see what the final product would look like. I found it the best way to learn. 
