@@ -48,14 +48,17 @@ https://validator.w3.org/nu/
 
 Each page flagged a few issues, mainly as Warning and Info. Some were flagged as Error, specifically around my use of list elements. But I did not change all of them as the lay out of my project was still relatively presentable. 
 
-![contact image](assets/image4.png)
 
-![contact image](assets/image5.png)
-
-![contact image](assets/image6.png)
 
 ## Deployment 
-I deployed the project via the GitHub features. I did this continually throughout the project to see what the final product would look like. I found it the best way to learn. 
+I deployed the project via the GitHub features. I did this continually throughout the project to see what the final product would look like. I found it the best way to learn.
+
+The site was deployed to GitHub pages as follows:
+In the GitHub repository, navigate to the Settings tab
+From the source section drop-down menu, select the Master or Main Branch
+Once the master or main branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
+
+https://davidkilty.github.io/ProjectSubmission1/
 
 ## Credits 
 
