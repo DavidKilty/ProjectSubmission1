@@ -48,7 +48,13 @@ https://validator.w3.org/nu/
 
 Each page flagged a few issues, mainly as Warning and Info. Some were flagged as Error, specifically around my use of list elements. But I did not change all of them as the lay out of my project was still relatively presentable. 
 
+Index: https://validator.w3.org/nu/?doc=https%3A%2F%2Fdavidkilty-projectsubmi-dhayxsselhl.ws-eu111.gitpod.io%2F#textarea
 
+Gallery: https://validator.w3.org/nu/?doc=https%3A%2F%2Fdavidkilty-projectsubmi-dhayxsselhl.ws-eu111.gitpod.io%2F#textarea
+
+Signup: https://validator.w3.org/nu/?doc=https%3A%2F%2Fdavidkilty-projectsubmi-dhayxsselhl.ws-eu111.gitpod.io%2F#textarea
+
+CSS: https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fdavidkilty.github.io%2FProjectSubmission1%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en#css
 
 ## Deployment 
 I deployed the project via the GitHub features. I did this continually throughout the project to see what the final product would look like. I found it the best way to learn.
