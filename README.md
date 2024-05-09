@@ -15,20 +15,16 @@ Index page shows the main list of neighborhoods and their respective bars
 
 Above that there is the menu to navigate through three pages
 
-![contact image](assets/imagetopmenu.png)
+![contact image](assets/image1.png)
 
-![contact image](assets/imagefirstpagesection.png)
+![contact image](assets/image2.png)
 
-![contact image](assets/imagesecondpagesection.png)
-
-![contact image](assets/imagethirdpagesection.png)
+![contact image](assets/image3.png)
 
 The third page copies the same structure but has music suggestions.
 The second page copies the same structure but has cocktail suggestions.
 
 Each page has a feed back section, for a users suggestions of the outlined categories. 
-
-![contact image](assets/imagefeedbackform.png)
 
 ## Existing Features
 The website layout is simple. As, it is my first website, and I largely wrote it myself, before I had access to my IDE. I have placed the Nav bar at the top, as we did in the LoveRunning project, which allows you to access the two secondary pages. These are where I have listed the cocktail recipes and music genre guide. 
@@ -51,6 +47,12 @@ I used the below validator by entering the code in manaually:
 https://validator.w3.org/nu/
 
 Each page flagged a few issues, mainly as Warning and Info. Some were flagged as Error, specifically around my use of list elements. But I did not change all of them as the lay out of my project was still relatively presentable. 
+
+![contact image](assets/image4.png)
+
+![contact image](assets/image5.png)
+
+![contact image](assets/image6.png)
 
 ## Deployment 
 I deployed the project via the GitHub features. I did this continually throughout the project to see what the final product would look like. I found it the best way to learn. 
