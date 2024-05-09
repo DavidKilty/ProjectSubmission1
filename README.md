@@ -13,7 +13,7 @@ Each page has a  menu that allows you to navigate through them.
 
 Index page shows the main list of neighborhoods and their respective bars 
 
-![contact image] (assets/Screenshot2024-05-08 at 15.29.34.png)
+![contact image](assets/Screenshot2024-05-08at15.29.34.png)
 
 The second page copies the same structure but has cocktail suggestions 
 
