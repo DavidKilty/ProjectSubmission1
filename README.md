@@ -46,13 +46,13 @@ I deployed it multiple times to reflect on my own work.
 I used the below validator by entering the code in manaually: 
 https://validator.w3.org/nu/
 
-Each page flagged a few issues, mainly as Warning and Info. Some were flagged as Error, specifically around my use of list elements. But I did not change all of them as the lay out of my project was still relatively presentable. 
+Origninally each page flagged a few issues, mainly as Warning and Info. Some were flagged as Error, specifically around my use of list elements. But fixed all issues, but lost the background color on my second page. Also, I understand that the images will load differently on each screen, but at this moment I have not learned how to compress images. 
 
-Index: https://validator.w3.org/nu/?doc=https%3A%2F%2Fdavidkilty-projectsubmi-dhayxsselhl.ws-eu111.gitpod.io%2F#textarea
+Ultimately, I still have a passable accessability score. 
 
-Gallery: https://validator.w3.org/nu/?doc=https%3A%2F%2Fdavidkilty-projectsubmi-dhayxsselhl.ws-eu111.gitpod.io%2F#textarea
+![contact image](assets/Image7.png) 
 
-Signup: https://validator.w3.org/nu/?doc=https%3A%2F%2Fdavidkilty-projectsubmi-dhayxsselhl.ws-eu111.gitpod.io%2F#textarea
+Deployed link: https://validator.w3.org/nu/?doc=https%3A%2F%2Fdavidkilty.github.io%2FProjectSubmission1%2F
 
 CSS: https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fdavidkilty.github.io%2FProjectSubmission1%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en#css
 
