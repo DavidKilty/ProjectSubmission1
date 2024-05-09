@@ -9,7 +9,22 @@ The ideal user would be a new Berlin resident a visiting tourist, who is searchi
 
 I would say the main target audience would be people aged 20 to 50, which makes up about two-thirds of the bar demographic. However, the website was intended to skew to a younger audience, say 20 to 35.
 
-/assets/workspace/ProjectSubmission1/assets/Screenshot 2024-05-08 at 15.30.04.png
+Each page has a  menu that allows you to navigate through them. 
+
+Index page shows the main list of neighborhoods and their respective bars 
+
+![contact image] (assets/Screenshot 2024-05-08 at 15.29.34.png)
+
+The second page copies the same structure but has cocktail suggestions 
+
+![contact image]
+
+The third page copies the same structure but has music suggestions 
+
+![contact image]
+
+Each page has a feed back section, for a users suggestions of the outlined categories. 
+ 
 
 ## Existing Features
 The website layout is simple. As, it is my first website, and I largely wrote it myself, before I had access to my IDE. I have placed the Nav bar at the top, as we did in the LoveRunning project, which allows you to access the two secondary pages. These are where I have listed the cocktail recipes and music genre guide. 
@@ -26,12 +41,28 @@ At the bottom of the first and second pages, there is a feedback form. This is s
 As I become more experienced, I would like there to be better-flowing graphics and more user interactions available. Like a review/comment section or perhaps a map feature linked. 
 
 ## Manual Testing
-I deployed it multiple times and used a validator
+I deployed it multiple times to reflect on my own work. 
+
+I used the below validator by entering the code in manaually: 
+https://validator.w3.org/nu/
+
+Each page flagged a few issues, mainly as Warning and Info. Some were flagged as Error, specifically around my use of list elements. But I did not change all of them as the lay out of my project was still relatively presentable. 
 
 ## Deployment 
 I deployed the project via the GitHub features. I did this continually throughout the project to see what the final product would look like. I found it the best way to learn. 
 
 ## Credits 
-I originally wrote the website only in HTML, all on a simple w3School tool. I then moved to CodeAnywhere, as per instructed, but lost that code as I did not push it in time before being locked out and moving to GitPod as is now recommended. I regret not getting comfortable with the IDE sooner as it was a great help. But I am glad I used W3Schools at first as it was very simple. The fonts are from Google as per learned with CodeInstitue, the images are from a variety of sites such as PixBay. 
 
-I used the Code Institute guides and materials exhaustively and also some Google.
+I originally wrote the website only in HTML, all on a simple w3School tool. I then moved to CodeAnywhere, as per instructed, but lost that code as I did not push it in time before being locked out and moving to GitPod as is now recommended. 
+
+I regret not getting comfortable with the IDE sooner as it was a great help. But I am glad I used W3Schools at first as it was very simple. The fonts are from Google as per learned with CodeInstitue. 
+
+The images are from a variety of sites such as PixBay and other free library stocks. 
+
+The fav icons were downloaded as per the LoveRunning project. 
+
+I often used the Slack channel to see other students tips on fixing issues and Googled problems, relying on such blogs as W3Schools, StackOverflow and MDNWebDocs
+
+I struggled  with the styling, sought advice from other coders and relied on styling from the HTML. 
+
+I used the Code Institute guides and materials exhaustively. 
