@@ -2,9 +2,25 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&family=Oswald:wght@200..700&display=swap');
 
-/* Asterisk wildcard selector to override default styles added by the browser */ 
 
+main div.image-container {
+    text-align: left;
+    max-width: 100%;
+    margin: 0;
+    padding: 10px;
+    box-sizing: border-box;
+}
 
+main div.image-container img,
+main div.image-container video {
+    width: 100%;
+    margin-right: 20px;
+    max-width: 50%; /* Ensures that two images/videos do not overlap */
+}
+
+main div.image-container:last-child {
+    margin-bottom: 20px;
+}
 /* Header */
 header {
     background-color: rgb(217, 217, 235);
@@ -16,7 +32,7 @@ h1 {font-family: 'Oswald', sans-serif;
     color: #ab012c;
     text-align: center;
 }
-h4 {font-family: 'Oswald', sans-serif;
+h4 {font-family: 'Lato', sans-serif;
     letter-spacing: 1px;
     color: #ab012c;
     text-align: center;
@@ -50,9 +66,6 @@ main {
     background-color: rgb(230, 223, 224);
 }
 
-h4 {
-    font-family: 'Lato', sans-serif;
-}
 
 h5 {
     font-family: 'Lato', sans-serif;
@@ -78,12 +91,7 @@ form
 {
     text-align: right;
 }
-h1 {font-family: 'Oswald', sans-serif;
-    text-transform: uppercase;
-    letter-spacing: 2px;
-    color: #ab012c;
-    text-align: center;
-}
+
 h3 {font-family: 'Oswald', sans-serif;
     letter-spacing: 1px;
     color: #ab012c;

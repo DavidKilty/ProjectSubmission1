@@ -1,4 +1,6 @@
 
+
+
 ## Welcome, this is the first website I built for my initial project with CodeInstitue.
 
 ### The Best Bars in Berlin #TBBIB 
@@ -24,7 +26,7 @@ Above that there is the menu to navigate through three pages
 The third page copies the same structure but has music suggestions.
 The second page copies the same structure but has cocktail suggestions.
 
-Each page has a feed back section, for a users suggestions of the outlined categories. 
+Each page has a feedback section, for a user's suggestions of the outlined categories. 
 
 ## Existing Features
 The website layout is simple. As, it is my first website, and I largely wrote it myself, before I had access to my IDE. I have placed the Nav bar at the top, as we did in the LoveRunning project, which allows you to access the two secondary pages. These are where I have listed the cocktail recipes and music genre guide. 
@@ -41,18 +43,22 @@ At the bottom of the first and second pages, there is a feedback form. This is s
 As I become more experienced, I would like there to be better-flowing graphics and more user interactions available. Like a review/comment section or perhaps a map feature linked. 
 
 ## Manual Testing
-I deployed it multiple times to reflect on my own work. 
+I deployed it multiple times to reflect on my work. 
 
-I used the below validator by entering the code in manaually: 
+I used the below validator by entering the code manually: 
 https://validator.w3.org/nu/
 
-Origninally each page flagged a few issues, mainly as Warning and Info. Some were flagged as Error, specifically around my use of list elements. But fixed all issues, but lost the background color on my second page. Also, I understand that the images will load differently on each screen, but at this moment I have not learned how to compress images. 
+Originally each page flagged a few issues, mainly as Warning and Info. Some were flagged as Errors, specifically around my use of list elements. But fixed all the issues, but lost the background color on my second page. Also, I understand that the images will load differently on each screen, but at this moment I have not learned how to compress images. 
 
-Ultimately, I still have a passable accessability score. 
+Ultimately, I still have a passable accessibility score. 
 
 ![contact image](assets/Image7.png) 
 
-Deployed link: https://validator.w3.org/nu/?doc=https%3A%2F%2Fdavidkilty.github.io%2FProjectSubmission1%2F
+Index Page: https://validator.w3.org/nu/?doc=https%3A%2F%2Fdavidkilty.github.io%2FProjectSubmission1%2F
+
+Cocktails Page: https://validator.w3.org/nu/?doc=https%3A%2F%2Fdavidkilty.github.io%2FProjectSubmission1%2Fcocktails.html
+
+Music Page: https://validator.w3.org/nu/?doc=https%3A%2F%2Fdavidkilty.github.io%2FProjectSubmission1%2Fmusic.html
 
 CSS: https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fdavidkilty.github.io%2FProjectSubmission1%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en#css
 
@@ -68,7 +74,7 @@ https://davidkilty.github.io/ProjectSubmission1/
 
 ## Credits 
 
-I originally wrote the website only in HTML, all on a simple w3School tool. I then moved to CodeAnywhere, as per instructed, but lost that code as I did not push it in time before being locked out and moving to GitPod as is now recommended. 
+I originally wrote the website only in HTML, all on a simple w3School tool. I then moved to CodeAnywhere, as instructed, but lost that code as I did not push it in time before being locked out and moving to GitPod as is now recommended. 
 
 I regret not getting comfortable with the IDE sooner as it was a great help. But I am glad I used W3Schools at first as it was very simple. The fonts are from Google as per learned with CodeInstitue. 
 
@@ -76,8 +82,8 @@ The images are from a variety of sites such as PixBay and other free library sto
 
 The fav icons were downloaded as per the LoveRunning project. 
 
-I often used the Slack channel to see other students tips on fixing issues and Googled problems, relying on such blogs as W3Schools, StackOverflow and MDNWebDocs
+I often used the Slack channel to see other students' tips on fixing issues and Googled problems, relying on such blogs as W3Schools, StackOverflow, and MDNWebDocs
 
-I struggled  with the styling, sought advice from other coders and relied on styling from the HTML. 
+I struggled with the styling, sought advice from other coders, and relied on styling from the HTML. 
 
 I used the Code Institute guides and materials exhaustively. 
