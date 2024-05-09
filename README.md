@@ -15,16 +15,16 @@ Index page shows the main list of neighborhoods and their respective bars
 
 ![contact image](assets/Screenshot2024-05-08at15.29.34.png)
 
-The second page copies the same structure but has cocktail suggestions 
+![contact image](assets/Screenshot2024-05-08at15.29.45.png)
 
-![contact image]
+![contact image](assets/Screenshot2024-05-08at15.29.54.png)
 
-The third page copies the same structure but has music suggestions 
-
-![contact image]
+The third page copies the same structure but has music suggestions.
+The second page copies the same structure but has cocktail suggestions.
 
 Each page has a feed back section, for a users suggestions of the outlined categories. 
- 
+
+![contact image](assets/Screenshot2024-05-08at15.30.13.png)
 
 ## Existing Features
 The website layout is simple. As, it is my first website, and I largely wrote it myself, before I had access to my IDE. I have placed the Nav bar at the top, as we did in the LoveRunning project, which allows you to access the two secondary pages. These are where I have listed the cocktail recipes and music genre guide. 
